@@ -7,16 +7,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1406-stone-game-iii) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1137-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |

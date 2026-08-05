@@ -1,24 +1,13 @@
 class Solution {
 public:
     int differenceOfSums(int n, int m) {
-        
-  int num1=0;
-  int num2=0;
- int i=1;
-while(i<=n)
-{
-   if(i%m==0)
-   {
-    num2=num2+i;
-   }
-   else{
-num1=num1+i;}
-i++;
 
-}
+        int total = n * (n + 1) / 2;
 
+        int c = n / m;
 
-return num1-num2;
+        int d = m * c * (c + 1) / 2;
 
+        return total - 2 * d;
     }
 };

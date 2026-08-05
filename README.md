@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1406-stone-game-iii) |
 | [1952-three-divisors](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1952-three-divisors) |
 | [2469-convert-the-temperature](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1952-three-divisors) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->

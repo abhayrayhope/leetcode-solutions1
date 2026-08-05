@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1406-stone-game-iii) |
 | [1952-three-divisors](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1952-three-divisors) |
+| [2413-smallest-even-multiple](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1952-three-divisors) |
+| [2413-smallest-even-multiple](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2413-smallest-even-multiple) |
 ## Prime Factorization
 |  |
 | ------- |

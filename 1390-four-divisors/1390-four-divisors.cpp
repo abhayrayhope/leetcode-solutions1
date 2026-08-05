@@ -2,37 +2,26 @@ class Solution {
 public:
     int sumFourDivisors(vector<int>& nums) {
 
-        int sum = 0;
+        int ans = 0;
 
-        for (int i = 0; i < nums.size(); i++) {
+        for (int num : nums) {
+            int count = 0;
+            int sum = 0;
 
-            int x = nums[i];
-            int c = 0;
-            int s = 0;
-
-            for (int y = 1; y * y <= x; y++) {
-
-                if (x % y == 0) {
-
-                    int d = x / y;
-
-                    if (y == d) {      
-                        c++;
-                        s += y;
-                    } else {
-                        c += 2;
-                        s += y + d;
-                    }
-
-                    if (c > 4)
-                        break;
+            for (int i = 1; i <= num; i++) {
+                if (num % i == 0) {
+                    count++;
+                    sum += i;
                 }
+
+                if (count > 4)
+                    break;
             }
 
-            if (c == 4)
-                sum += s;
+            if (count == 4)
+                ans += sum;
         }
 
-        return sum;
+        return ans;
     }
 };

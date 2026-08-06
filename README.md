@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1952-three-divisors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |

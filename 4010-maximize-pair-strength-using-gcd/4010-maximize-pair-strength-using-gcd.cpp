@@ -3,19 +3,19 @@ class Solution {
 public:
     long long maxPairStrength(vector<int>& nums) {
 
-        long long ans = 0;
+        long long a = 0;
 
         for (int i = 0; i < nums.size(); i++) {
             for (int j = i + 1; j < nums.size(); j++) {
 
                 long long g = gcd(nums[i], nums[j]);
 
-                long long strength = (1LL * nums[i] * nums[j]) / (g * g);
+                long long s = (1LL * nums[i] * nums[j]) / (g * g);
 
-                ans = max(ans, strength);
+                a = max(a, s);
             }
         }
 
-        return ans;
+        return a;
     }
 };

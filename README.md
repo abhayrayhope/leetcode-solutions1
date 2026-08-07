@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1406-stone-game-iii) |
+| [2540-minimum-common-value](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2540-minimum-common-value) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3731-find-missing-elements) |
 ## Minimax
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1331-rank-transform-of-an-array) |
+| [2540-minimum-common-value](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -102,8 +104,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2540-minimum-common-value](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2540-minimum-common-value](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->

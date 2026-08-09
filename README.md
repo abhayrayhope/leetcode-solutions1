@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0739-daily-temperatures](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0739-daily-temperatures) |
 | [1331-rank-transform-of-an-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1406-stone-game-iii) |
@@ -120,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

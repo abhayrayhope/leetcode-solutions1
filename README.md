@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0070-climbing-stairs) |
+| [0507-perfect-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0507-perfect-number) |
 | [1137-n-th-tribonacci-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1140-stone-game-ii) |
 | [1390-four-divisors](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1390-four-divisors) |

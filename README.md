@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0344-reverse-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0204-count-primes) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->

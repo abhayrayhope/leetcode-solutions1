@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0506-relative-ranks) |
 | [1331-rank-transform-of-an-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0344-reverse-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3090-maximum-length-substring-with-two-occurrences) |

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0229-majority-element-ii) |
 | [0506-relative-ranks](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0506-relative-ranks) |
 | [0739-daily-temperatures](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0739-daily-temperatures) |
 | [1140-stone-game-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1140-stone-game-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2540-minimum-common-value) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0506-relative-ranks) |
 | [1331-rank-transform-of-an-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1331-rank-transform-of-an-array) |
@@ -194,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

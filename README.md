@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0383-ransom-note) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

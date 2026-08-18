@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1140-stone-game-ii) |
 | [1390-four-divisors](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1563-stone-game-v) |
 | [1952-three-divisors](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2469-convert-the-temperature) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1563-stone-game-v) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2540-minimum-common-value](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1563-stone-game-v) |
 ## Zero-Sum Game
 |  |
 | ------- |

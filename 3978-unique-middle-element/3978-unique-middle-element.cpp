@@ -4,16 +4,9 @@ public:
         
    int m=nums.size()/2;
 
-   map<int,int>c;
+  if(count(nums.begin(),nums.end(),nums[m])==1)
+  return true;
 
-   for(int i:nums)
-   {
-    c[i]++;
-   }
-
-if(c[nums[m]]==1){
-   return true;}
-
-   return false;
+  return false;
     }
 };

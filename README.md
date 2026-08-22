@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3731-find-missing-elements) |
+| [3978-unique-middle-element](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3978-unique-middle-element) |
 ## Minimax
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0383-ransom-note) |
+| [3978-unique-middle-element](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0383-ransom-note) |
 | [1903-largest-odd-number-in-string](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1903-largest-odd-number-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3798-largest-even-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3798-largest-even-number) |

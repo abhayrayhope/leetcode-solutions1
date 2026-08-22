@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3798-largest-even-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3798-largest-even-number) |
 ## Greedy
 |  |
 | ------- |

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2469-convert-the-temperature) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0383-ransom-note) |
 | [1903-largest-odd-number-in-string](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |

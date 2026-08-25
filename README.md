@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2540-minimum-common-value) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |

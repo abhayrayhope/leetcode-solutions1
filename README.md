@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0344-reverse-string) |
 | [2540-minimum-common-value](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3798-largest-even-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3798-largest-even-number) |
 ## Greedy
 |  |

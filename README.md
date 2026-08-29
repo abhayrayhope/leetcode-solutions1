@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1140-stone-game-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0204-count-primes) |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

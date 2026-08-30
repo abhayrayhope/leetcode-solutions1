@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1563-stone-game-v) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2540-minimum-common-value](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2540-minimum-common-value) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack

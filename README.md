@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -289,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

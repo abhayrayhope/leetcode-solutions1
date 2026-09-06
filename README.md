@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0507-perfect-number) |
 | [1137-n-th-tribonacci-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1137-n-th-tribonacci-number) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0383-ransom-note) |

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0115-distinct-subsequences) |
 | [1137-n-th-tribonacci-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1406-stone-game-iii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0383-ransom-note) |

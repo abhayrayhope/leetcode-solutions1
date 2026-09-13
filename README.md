@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0229-majority-element-ii) |
 | [0506-relative-ranks](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0506-relative-ranks) |
 | [0739-daily-temperatures](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1386-cinema-seat-allocation) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |

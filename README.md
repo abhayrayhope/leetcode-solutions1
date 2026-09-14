@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0507-perfect-number) |
+| [0836-rectangle-overlap](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1140-stone-game-ii) |
 | [1390-four-divisors](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1390-four-divisors) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Two Pointers
 |  |

@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0506-relative-ranks) |
 | [0739-daily-temperatures](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0835-image-overlap) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1386-cinema-seat-allocation) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0506-relative-ranks) |
 | [1331-rank-transform-of-an-array](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0506-relative-ranks) |
 ## Segment Tree
 |  |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0383-ransom-note) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3978-unique-middle-element](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/3978-unique-middle-element) |
@@ -306,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -337,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

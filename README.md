@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0383-ransom-note) |
 | [0940-distinct-subsequences-ii](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1927-sum-game) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -333,5 +335,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

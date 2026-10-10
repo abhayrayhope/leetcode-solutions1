@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0171-excel-sheet-column-number) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -330,5 +332,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhayrayhope/leetcode-solutions1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
